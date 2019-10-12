@@ -1,4 +1,5 @@
 list fakultas unbaja
 -filkom
 -teknik
--fkip
+-perpajakan
+-perminyakkan
