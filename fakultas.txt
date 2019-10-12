@@ -1,0 +1,4 @@
+list fakultas unbaja
+-filkom
+-teknik
+-fkip
